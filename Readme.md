@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/T191944/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/T191944/Controllers/HomeController.vb))
+* [ProductsReport.cs](./CS/T191944/Reports/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/T191944/Reports/ProductsReport.vb))
+* **[_DocumentViewerPartial.cshtml](./CS/T191944/Views/Home/_DocumentViewerPartial.cshtml)**
+<!-- default file list end -->
 # MVC DocumentViewer extension - Creating a multi-select parameter
 
 
