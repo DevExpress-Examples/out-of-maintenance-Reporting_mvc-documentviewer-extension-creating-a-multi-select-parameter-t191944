@@ -6,6 +6,9 @@
 * **[_DocumentViewerPartial.cshtml](./CS/T191944/Views/Home/_DocumentViewerPartial.cshtml)**
 <!-- default file list end -->
 # MVC DocumentViewer extension - Creating a multi-select parameter
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t191944)**
+<!-- run online end -->
 
 
 <p><strong>NOTE</strong> Starting with version <strong>15.1</strong> the multi-select parameters for our reporting suite are available out of the box. See the <a href="https://documentation.devexpress.com/#XtraReports/CustomDocument9997/Using">Parameters Overview > Using Parameters > Multi-Value Parameters</a> help topic for more details.</p>
