@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # MVC DocumentViewer extension - Creating a multi-select parameter
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t191944)**
+**[[Run Online]](https://codecentral.devexpress.com/t191944/)**
 <!-- run online end -->
 
 
